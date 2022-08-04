@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Humza Inam
+- 👀 I’m interested in front-end and back-end development, hardware technologies and databases
+- 🌱 I’m currently learning DSA, front-end technologies and SQL
+- 💞️ In the future I am looking to collaborate on projects that have significant impact on the world!
