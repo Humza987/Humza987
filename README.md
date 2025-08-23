@@ -1,4 +1,6 @@
-# Humza Inam — Software Developer · Computer Engineering Graduate
+# Humza Inam 
+
+# Software Developer · Computer Engineering Graduate (YorkU)
 
 Software developer with **10+ months** of professional experience at **SOTI**.
 Focused on building practical, user-centered software (full-stack web apps, developer tools) with a strong foundation in systems and software engineering.
