@@ -8,6 +8,7 @@ Focused on building practical, user-centered software (full-stack web apps, deve
 **Currently:** Seeking full-time software development opportunities
 
 **Recent:** Winners *P.E.O. York Chapter Award* for the **SafeScript** VS Code extension. 
+
 Developing Mindtryx AI Study Platform Project.
           
 
