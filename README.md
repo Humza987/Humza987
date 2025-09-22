@@ -7,7 +7,7 @@ Currently: Seeking full-time software development opportunities.
 
 Recent: Winner of the P.E.O. York Chapter Award for the SafeScript VS Code extension.
 
-Currently Developing Mindryx (https://mindryxify.vercel.app/), an AI-powered study platform project that generates quizzes from topics or PDFs, leveraging cloud databases, serverless APIs, and privacy-focused WebLLM chat features.
+Currently Developing Mindryx (https://mindryxify.vercel.app), an AI-powered study platform project that generates quizzes from topics or PDFs, leveraging cloud databases, serverless APIs, and privacy-focused WebLLM chat features.
 
 Connect: LinkedIn
  · explore my repositories below
